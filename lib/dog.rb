@@ -6,3 +6,4 @@ class Dog
   end
   dog.new("Mutt")
 end
+end
