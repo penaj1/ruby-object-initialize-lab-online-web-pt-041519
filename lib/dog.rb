@@ -5,7 +5,7 @@ class Dog
     @breed = breed
   end
   
-  def default_breed
+  def default_breed(breed)
     puts "Mutt"
   end
   
